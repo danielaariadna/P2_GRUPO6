@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1714363560 source:c:\temporal\eda\p2_grupo6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	<ctype.h>
+	<math.h>
+	"shipment.h"
+	"abb.h"
+	"costos.h"
+	"lsobb.h"
+	"Libt.h"
+
+1713943663 c:\temporal\eda\p2_grupo6\shipment.h
+	"person.h"
+
+1713938401 c:\temporal\eda\p2_grupo6\person.h
+
+1714256663 c:\temporal\eda\p2_grupo6\abb.h
+	<malloc.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"shipment.h"
+
+1714349339 c:\temporal\eda\p2_grupo6\costos.h
+
+1714363763 c:\temporal\eda\p2_grupo6\lsobb.h
+	"shipment.h"
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<stdio.h>
+
+1714348319 c:\temporal\eda\p2_grupo6\libt.h
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<stdio.h>
+	"Shipment.h"
+
+1715604927 source:c:\users\usuario\downloads\p2-grupo6\p2_grupo6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	<ctype.h>
+	<math.h>
+	"shipment.h"
+	"abb.h"
+	"costos.h"
+	"lsobb.h"
+	"Libt.h"
+
+1713943663 c:\users\usuario\downloads\p2-grupo6\p2_grupo6\shipment.h
+	"person.h"
+
+1713938401 c:\users\usuario\downloads\p2-grupo6\p2_grupo6\person.h
+
+1715371064 c:\users\usuario\downloads\p2-grupo6\p2_grupo6\abb.h
+	<malloc.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"shipment.h"
+
+1714349339 c:\users\usuario\downloads\p2-grupo6\p2_grupo6\costos.h
+
+1715372372 c:\users\usuario\downloads\p2-grupo6\p2_grupo6\lsobb.h
+	"shipment.h"
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<stdio.h>
+
+1714348319 c:\users\usuario\downloads\p2-grupo6\p2_grupo6\libt.h
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<stdio.h>
+	"Shipment.h"
+
+1715632120 source:c:\users\pc\downloads\p2_grupo6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	<ctype.h>
+	<math.h>
+	"shipment.h"
+	"abb.h"
+	"costos.h"
+	"lsobb.h"
+	"Libt.h"
+
+1713943663 c:\users\pc\downloads\p2_grupo6\shipment.h
+	"person.h"
+
+1713938401 c:\users\pc\downloads\p2_grupo6\person.h
+
+1715371064 c:\users\pc\downloads\p2_grupo6\abb.h
+	<malloc.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"shipment.h"
+
+1715632351 c:\users\pc\downloads\p2_grupo6\costos.h
+
+1715631558 c:\users\pc\downloads\p2_grupo6\lsobb.h
+	"shipment.h"
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<stdio.h>
+
+1715632401 c:\users\pc\downloads\p2_grupo6\libt.h
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<stdio.h>
+	"Shipment.h"
+
